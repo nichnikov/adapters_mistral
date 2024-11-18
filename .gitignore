@@ -165,3 +165,5 @@ mistral-viggo-finetune/
 mistral-viggo-finetune-mistral/
 wandb/
 models/
+mistral-write-support-bss/
+data/

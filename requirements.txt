@@ -7,3 +7,4 @@ datasets==2.12.0
 loralib==0.1.1
 einops==0.6.1
 mistral-inference==1.4.0
+peft==0.4.0.dev0
